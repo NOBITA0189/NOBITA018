@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3><img  style="align-item" :"center" src="https://telegra.ph/file/fbd55ee956abef2a74e15.jpg" width="80px" height="70%">
-   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=🦋+💗+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐎𝐔𝐑+𝐆𝐈𝐓𝐇𝐔𝐁+𝐀𝐂𝐂𝐎𝐔𝐍𝐓+.+.+.+.+.;🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+𝐑𝐀𝐉𝐍𝐈𝐒𝐇+𝐗𝐃+🖤+🥀;💓+𝐓𝐇𝐀𝐍𝐊+𝐘𝐎𝐔+𝐅𝐎𝐑+𝐕𝐈𝐒𝐈𝐓𝐈𝐍𝐆+𝐌𝐘+𝐏𝐑𝐎𝐅𝐈𝐋𝐄+🌲+❗️"></b></h3>
+<h3><img  style="align-item" :"center" src="https://telegra.ph/file/fa1489797406a1be5a486.jpg" width="80px" height="70%">
+   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=🦋+💗+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐎𝐔𝐑+𝐆𝐈𝐓𝐇𝐔𝐁+𝐀𝐂𝐂𝐎𝐔𝐍𝐓+.+.+.+.+.;🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+NOBITA+𝐗𝐃+🖤+🥀;💓+𝐓𝐇𝐀𝐍𝐊+𝐘𝐎𝐔+𝐅𝐎𝐑+𝐕𝐈𝐒𝐈𝐓𝐈𝐍𝐆+𝐌𝐘+𝐏𝐑𝐎𝐅𝐈𝐋𝐄+🌲+❗️"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
@@ -17,9 +17,9 @@
 <br/>
 <h1 align="left">🌐 Socials Contact: </h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rajnish_mishra____) 
-[![Telegram](https://img.shields.io/badge/Telegram-%232671E5.svg?logo=Telegram&logoColor=white)](https://t.me/JARVIS_V2) 
-[![Gmail](https://img.shields.io/badge/Gmail-%23F05033.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=hackerdoraemon2@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/btw_nobita_0) 
+[![Telegram](https://img.shields.io/badge/Telegram-%232671E5.svg?logo=Telegram&logoColor=white)](https://t.me/BTW_AYU_0) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23F05033.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=s43676507@gmail.com) 
 [![YouTube](https://img.shields.io/badge/Youtube-%23DD0031.svg?logo=Youtube&logoColor=white)](https://youtube.com/@rajnisha3) 
 
 # 💻 Tech Stack:
@@ -31,7 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Doraemon890&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Doraemon890&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=NOBITA018&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Doraemon890&limit=5&theme=dark&combine_all_yearly_contributions=true)
